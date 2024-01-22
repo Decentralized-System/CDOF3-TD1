@@ -7,7 +7,7 @@ Kerian HUERTAS : [CepheusEngine_TravellerRPG_Map_Generator]https://github.com/Es
 [GodjeNadia-Ascii_Art_Generetor](https://github.com/NadiaKlos/Ascii_Art_Generetor_GODJE_CDOF3)
 [GARDIN-project3](https://github.com/RinjieMX/ToDoListJs-GARDIN-CDOF3)
 
-[JulesDeleuse-project1](https://github.com/KryMucus/CDOF3-TD1)
+[JulesDeleuse-QUIZZ_GAME](https://github.com/KryMucus/-Quiz_Game---Jules_Deleuse---CDOF3-)
 [ASCII-Art-Generator_Penelope-PERONNET_CDOF3](https://github.com/lLopelope/ASCII-Art-Generator_Penelope-PERONNET_CDOF3)
 [PundogarNathan-project1](https://github.com/Natgru06/Game-of-life_Pundogar-Nathan_TD1_CDOF3)
 [TabardBenoit-project1](https://github.com/kahoo26/ToDo_TABARD_CDOF3)
