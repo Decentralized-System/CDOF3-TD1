@@ -27,4 +27,5 @@
 - [AlexandreVC-Quizz](https://https://github.com/AlexandreVC/Quizz_AlexandreVaianiCanon_CDOF3)
 - [MINOST-Alexis-QuizGame](https://github.com/Tyui70/QuizGame-MinostAlexis-CDOF03.git)
 - [GRÉAU_Ludovic-Qu1Z](https://github.com/Typher77/Qu1Z-GREAU_Ludovic-CDOF03)
+- [SOUFFLET-Thomas-TerminalTodoList](https://github.com/thomassflt/todolist-soufflet-thomas-cdof3)
 - [Kachkachi_Tiphaine_AdventureGame](https://github.com/Tiphk/Project-1-Tiphaine-Kachkachi-CDOF3)
