@@ -1,6 +1,6 @@
 # CDOF1-TD1
 
-# Recap to use Git and GitHub:
+## Recap to use Git and GitHub:
 [https://nandyba.com/formations/GitHub/pdf](https://nandyba.com/formations/GitHub/pdf)
 
 ## Your teamates projects:
